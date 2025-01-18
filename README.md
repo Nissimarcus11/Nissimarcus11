@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nissi Marcus
-- 👀 I’m interested in developing applications using several back ends
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on java, php, python, django, and flutter
+- 👀 I’m a Developer and DevOps Engineer
+- 🌱 Continuous Learning is the key
+- 💞️ Fitness, Travel, Biking, Hiking, Cooking
 - 📫 How to reach me mail me nissimarcus3@gmail.com
 
 <!---
